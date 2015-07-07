@@ -1,0 +1,2 @@
+# deroot
+automatic php root.
