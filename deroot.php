@@ -1,6 +1,5 @@
 <?php
-# SHOUT OUTS TO: sn, _alice, p0lak, bugtrack, swayz, mr.br0k.
-# author: z0x
+
 # local root exploits from 2002-2015
 print "___                          __
 __| _/___________  ____   _____/  |_
